@@ -28,3 +28,60 @@
 [submodule "yazi"]
 	path = cli/yazi
 	url = https://github.com/catppuccin/yazi.git
+[submodule "tty"]
+	path = cli/tty
+	url = https://github.com/catppuccin/tty.git
+[submodule "base16"]
+	path = cli/base16
+	url = https://github.com/catppuccin/base16.git
+[submodule "bitburner"]
+	path = gui/bitburner
+	url = https://github.com/catppuccin/bitburner.git
+[submodule "cursors"]
+	path = gui/cursors
+	url = https://github.com/catppuccin/cursors.git
+[submodule "dark-reader"]
+	path = gui/dark-reader
+	url = https://github.com/catppuccin/dark-reader.git
+[submodule "discord"]
+	path = gui/discord
+	url = https://github.com/catppuccin/discord.git
+[submodule "firefox"]
+	path = gui/firefox
+	url = https://github.com/catppuccin/firefox.git
+[submodule "grub"]
+	path = gui/grub
+	url = https://github.com/catppuccin/grub.git
+[submodule "limine"]
+	path = gui/limine
+	url = https://github.com/catppuccin/limine.git
+[submodule "papirus-folders"]
+	path = gui/papirus-folders
+	url = https://github.com/catppuccin/papirus-folders.git
+[submodule "plymouth"]
+	path = gui/plymouth
+	url = https://github.com/catppuccin/plymouth.git
+[submodule "thunderbird"]
+	path = gui/thunderbird
+	url = https://github.com/catppuccin/thunderbird.git
+[submodule "vscode"]
+	path = gui/vscode
+	url = https://github.com/catppuccin/vscode.git
+[submodule "vscode-icons"]
+	path = gui/vscode-icons
+	url = https://github.com/catppuccin/vscode-icons.git
+[submodule "termux"]
+	path = gui/termux
+	url = https://github.com/catppuccin/termux.git
+[submodule "zed-icons"]
+	path = gui/zed-icons
+	url = https://github.com/catppuccin/zed-icons.git
+[submodule "zed"]
+	path = gui/zed
+	url = https://github.com/catppuccin/zed.git
+[submodule "github-file-explorer-icons"]
+	path = gui/github-file-explorer-icons
+	url = https://github.com/catppuccin/github-file-explorer-icons.git
+[submodule "libreoffice"]
+	path = gui/libreoffice
+	url = https://github.com/catppuccin/libreoffice.git
