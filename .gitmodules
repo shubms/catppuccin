@@ -1,0 +1,30 @@
+[submodule "bat"]
+	path = cli/bat
+	url = https://github.com/catppuccin/bat.git
+[submodule "delta"]
+	path = cli/delta
+	url = https://github.com/catppuccin/delta.git
+[submodule "bottom"]
+	path = cli/bottom
+	url = https://github.com/catppuccin/bottom.git
+[submodule "fzf"]
+	path = cli/fzf
+	url = https://github.com/catppuccin/fzf.git
+[submodule "gitui"]
+	path = cli/gitui
+	url = https://github.com/catppuccin/gitui.git
+[submodule "glamour"]
+	path = cli/glamour
+	url = https://github.com/catppuccin/glamour.git
+[submodule "helix"]
+	path = cli/helix
+	url = https://github.com/catppuccin/helix.git
+[submodule "skim"]
+	path = cli/skim
+	url = https://github.com/catppuccin/skim.git
+[submodule "starship"]
+	path = cli/starship
+	url = https://github.com/catppuccin/starship.git
+[submodule "yazi"]
+	path = cli/yazi
+	url = https://github.com/catppuccin/yazi.git
